@@ -1,0 +1,11 @@
+## Day 1: Onboarding & Environment Setup
+
+- Created public repo `Nexium_Wahaj_Internship` and initialized local Git.
+- Installed Node.js LTS (≥ 20) and activated pnpm via Corepack.
+- Enabled global CLI tools: `vercel`, `prisma`, `supabase`, `mongo`.
+- Set up VS Code with ESLint, Prettier, Tailwind CSS IntelliSense, Prisma extension.
+- Registered on Supabase and MongoDB Atlas; created `nexium-pg` (Postgres) and `nexium-mongo` clusters.
+- Created `.env.example` with placeholders for all secrets.
+- Verified remote origin, flattened `/internship` folder structure, and pushed initial commit.
+
+All onboarding steps complete ✅
