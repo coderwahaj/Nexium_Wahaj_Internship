@@ -1,6 +1,6 @@
-/* @tailwind base;
+@tailwind base;
 @tailwind components;
-@tailwind utilities; */
+@tailwind utilities;
 
 /* Optional: your own custom styles here */
 
@@ -88,7 +88,7 @@ a {
   }
 }
 
-/* @layer base {
+@layer base {
   * {
     @apply border-border;
   }
@@ -102,4 +102,4 @@ a {
       @apply transition-colors duration-300;
   
    }
-} */
+}
