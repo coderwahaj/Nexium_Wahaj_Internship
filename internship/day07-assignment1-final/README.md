@@ -5,7 +5,7 @@ A sleek, responsive motivational quote generator built with Next.js, Tailwind 
 ---
 
 ## 🚀 Live Demo  
-https://your-vercel-url.vercel.app
+https://nexium-wahaj-internship-ktw4.vercel.app/
 
 ---
 
