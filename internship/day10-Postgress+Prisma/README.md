@@ -1,6 +1,5 @@
 <head>
   <meta charset="UTF-8">
-  <title>Day 10 – Prisma + PostgreSQL Integration</title>
 </head>
 <body>
 
